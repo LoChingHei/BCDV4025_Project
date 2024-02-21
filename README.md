@@ -28,6 +28,8 @@ the distribution between different organizations participating in the drug distr
 
 ## Sequence Diagram
 
+![AssignmentBCDV4025](https://github.com/LoChingHei/BCDV4025_Project/assets/72778161/af1e9f79-0483-4ae1-8ec3-3a3457b94fad)
+
 
 ## Roles and Policies
 
