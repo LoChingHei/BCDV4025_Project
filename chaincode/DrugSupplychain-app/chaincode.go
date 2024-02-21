@@ -119,7 +119,6 @@ func (s *SmartContract) queryAllDrug(APIstub shim.ChaincodeStubInterface) sc.Res
 	}
 	defer resultsIterator.Close()
 
-	// buffer is a JSON array containing QueryResults
 	var buffer bytes.Buffer
 	buffer.WriteString("[")
 
@@ -129,7 +128,6 @@ func (s *SmartContract) queryAllDrug(APIstub shim.ChaincodeStubInterface) sc.Res
 		if err != nil {
 			return shim.Error(err.Error())
 		}
-		// Add comma before array members,suppress it for the first array member
 		if bArrayMemberAlreadyWritten == true {
 			buffer.WriteString(",")
 		}
@@ -139,7 +137,6 @@ func (s *SmartContract) queryAllDrug(APIstub shim.ChaincodeStubInterface) sc.Res
 		buffer.WriteString("\"")
 
 		buffer.WriteString(", \"Record\":")
-		// Record is a JSON object, so we write as-is
 		buffer.WriteString(string(queryResponse.Value))
 		buffer.WriteString("}")
 		bArrayMemberAlreadyWritten = true
@@ -165,8 +162,6 @@ func (s *SmartContract) changeDrugHolder(APIstub shim.ChaincodeStubInterface, ar
 	drug := Drug{}
 
 	json.Unmarshal(drugAsBytes, &drug)
-	// Normally check that the specified argument is a valid holder of drug
-	// we are skipping this check for this example
 	drug.Holder = args[1]
 
 	drugAsBytes, _ = json.Marshal(drug)
