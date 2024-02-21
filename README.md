@@ -48,6 +48,14 @@ Get all drugs function:
 
 <img width="867" alt="Screenshot 2024-02-21 at 4 15 26 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/dab97d27-98d7-4527-b485-23ebc4cb133b">
 
+<img width="850" alt="Screenshot 2024-02-21 at 4 31 02 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/36345e85-d82d-4e77-a907-c9201a9bbb74">
+
+<img width="848" alt="Screenshot 2024-02-21 at 4 24 27 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/555a3f05-c1a2-4603-9c58-8399c9eb22a3">
+
+<img width="934" alt="Screenshot 2024-02-21 at 4 17 48 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/b38aca47-44e2-4857-940f-a16553a206e8">
+
+
+<img width="916" alt="Screenshot 2024-02-21 at 4 22 23 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/286f2d04-c825-4dd3-816e-add36b6eba03">
 
 
 
