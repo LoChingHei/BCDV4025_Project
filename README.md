@@ -33,7 +33,16 @@ the distribution between different organizations participating in the drug distr
 
 
 ## Roles and Policies
+Key components of an Endorsement Policy (Planning)
 
+Participant Roles and Permissions:
+Clearly define the roles of participants in the network, such as manufacturers, distributors, pharmacies, and regulatory bodies. Specify the permissions each participant has regarding the endorsement of transactions.
+
+Criteria for Endorsement:
+Establish criteria for a transaction to be endorsed that need to be met. For example, verifying the authenticity of the products, ensuring compliance with regulatory standards, and confirming the accuracy of transaction details.
+
+Auditability and Transparency:
+Stakeholders should be able to review the history of endorsements and validate the integrity of the entire supply chain ledger.
 
 ## Snapshots of application, results
 
