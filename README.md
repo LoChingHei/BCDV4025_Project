@@ -18,6 +18,7 @@ the distribution between different organizations participating in the drug distr
 
 ## Requirements
 
+"fabric-samples" repository to run the testnet
 
 ## Architecture Diagram
 
