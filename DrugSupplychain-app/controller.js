@@ -63,7 +63,7 @@ return{
 		    } else {
 		        console.log("No payloads were returned from query");
 		    }
-		}).drug((err) => {
+		}).catch((err) => {
 		    console.error('Failed to query successfully :: ' + err);
 		});
 	},
@@ -196,7 +196,7 @@ return{
 		    } else {
 		        console.log('Transaction failed to be committed to the ledger due to ::'+results[1].event_status);
 		    }
-		}).drug((err) => {
+		}).catch((err) => {
 		    console.error('Failed to invoke successfully :: ' + err);
 		});
 	},
@@ -254,7 +254,7 @@ return{
 		        console.log("No payloads were returned from query");
 		        res.send("Could not locate drug")
 		    }
-		}).drug((err) => {
+		}).catch((err) => {
 		    console.error('Failed to query successfully :: ' + err);
 		    res.send("Could not locate drug")
 		});
@@ -386,7 +386,7 @@ return{
 		    } else {
 		        console.log('Transaction failed to be committed to the ledger due to ::'+results[1].event_status);
 		    }
-		}).drug((err) => {
+		}).catch((err) => {
 		    console.error('Failed to invoke successfully :: ' + err);
 		    res.send("Error: no drug record found");
 		});
