@@ -68,7 +68,7 @@ Add drug with ID "3" to the list:
 
 <img width="848" alt="Screenshot 2024-02-21 at 4 24 27 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/555a3f05-c1a2-4603-9c58-8399c9eb22a3">
 
-Get all drugs function, drug "3" was added:
+Get all drugs function, we can see that drug "3" was added:
 
 <img width="934" alt="Screenshot 2024-02-21 at 4 17 48 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/b38aca47-44e2-4857-940f-a16553a206e8">
 
