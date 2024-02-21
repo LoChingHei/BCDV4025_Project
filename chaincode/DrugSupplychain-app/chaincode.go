@@ -11,7 +11,7 @@ import (
 	sc "github.com/hyperledger/fabric-protos-go/peer"
 )
 
-// Define the Smart Contract structure
+
 type SmartContract struct {
 	contractapi
 }
