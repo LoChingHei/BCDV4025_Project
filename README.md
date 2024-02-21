@@ -18,7 +18,7 @@ Fututre Plans: • Increased Traceability and Transparency: Blockchain will cont
 ## Team
 Lo Ching Hei (101486171)
 
-Kirill Spitsyn 
+Kirill Spitsyn 101518315
 
 Kevon Vincent Jaggassar  
 
