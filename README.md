@@ -13,16 +13,26 @@ add traceability and transparency to the drug distribution process. Besides, sma
 errors. In conclusion, this application will allow tracking of the entire drug distribution and manufacturing process, and it will be easier for companies to share information about 
 the distribution between different organizations participating in the drug distribution process.
 
+Trade-Offs: • Complexity and Development Costs: Developing a Supply chain Hyperledger Fabric requires specialized skills in blockchain development and may involve a steep learning curve. Additionally, integrating IoT devices and ensuring interoperability with existing systems can increase development complexity and costs. • Scalability: Supply chain hyperledger Fabric, like many blockchain platforms, may face scalability challenges as the number of participants and transactions increases. Balancing scalability with data privacy and security requirements can be a significant trade-off, especially in a high-volume industry like pharmaceuticals. • Privacy and Confidentiality: While blockchain provides transparency and immutability, ensuring privacy and confidentiality of sensitive data, such as proprietary drug formulations or business agreements, can be challenging. Implementing privacy-enhancing techniques like zero-knowledge proofs or private channels adds complexity and may impact performance. • Regulatory Compliance: While blockchain can streamline regulatory compliance by providing transparent audit trails, ensuring compliance with evolving regulations such as GDPR (General Data Protection Regulation) or HIPAA (Health Insurance Portability and Accountability Act) requires careful consideration. Balancing transparency with data protection regulations may require trade-offs in terms of data visibility and accessibility. • User Adoption and Interface Complexity: Designing user-friendly interfaces for stakeholders with varying levels of technical expertise can be challenging. Balancing the need for comprehensive functionality with simplicity and ease of use is essential for driving user adoption and minimizing friction in the supply chain. • Infrastructure Requirements: Running a Hyperledger Fabric network requires robust infrastructure, including servers, storage, and network resources. Maintaining and scaling the infrastructure to support growing network demands can be costly and resource intensive. • Network Governance and Maintenance: Establishing governance mechanisms and ensuring network maintenance, including consensus protocol upgrades and bug fixes, requires ongoing investment and coordination among network participants. Balancing decentralization with governance efficiency is a key trade-off for blockchain networks.
+
 Fututre Plans: • Increased Traceability and Transparency: Blockchain will continue to play a crucial role in enhancing traceability and transparency throughout in the drug supply chain. By leveraging immutable ledgers and smart contracts, companies can ensure that every step of the drug manufacturing and distribution process is recorded transparently and securely. • Integration with IoT Devices: Integration with the Internet of Things (IoT)-smartwatches, and devices will become more prevalent, enabling real-time tracking of pharmaceutical products from manufacturing facilities to end consumers. IoT sensors can provide data on temperature, humidity, and other environmental factors, ensuring the integrity and quality of drugs throughout their journey. • Enhanced Regulatory Compliance: Blockchain solutions will help pharmaceutical companies meet regulatory compliance requirements more efficiently. By providing a tamper-proof record of transactions and drug movements, companies can streamline regulatory reporting and audits, reducing the risk of non-compliance and associated penalties. • Interoperability and Collaboration: There will be a focus on interoperability and collaboration among different stakeholders in the pharmaceutical supply chain. Blockchain networks built on Hyperledger Fabric will facilitate secure data sharing and collaboration between manufacturers, wholesalers, distributors, pharmacies, and regulatory authorities, improving efficiency and trust.
 
 ## Team
 Lo Ching Hei (101486171)
 
-Kirill Spitsyn 101518315
+Business Analyst 
 
-Kevon Vincent Jaggassar  
+Kirill Spitsyn (101518315)
 
-Tafadzwa Mataire
+Business Analyst 
+
+Kevon Vincent Jaggassar (101434025)  
+
+Blockchain Developer
+
+Tafadzwa Mataire (101428775)
+
+Full Stack Developer
 
 ## Requirements
 
