@@ -44,6 +44,7 @@ Stakeholders should be able to review the history of endorsements and validate t
 
 ## Snapshots of application, results
 
+Get all drugs function:
 <img width="1440" alt="Screenshot 2024-02-21 at 12 14 50 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/d522f3e5-078e-4182-a7c3-b0fa7548b72b">
 
 <img width="836" alt="Screenshot 2024-02-21 at 12 18 02 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/28d921b1-3eb7-4f03-8424-461fea17c1c6">
