@@ -36,4 +36,4 @@ the distribution between different organizations participating in the drug distr
 
 ## Snapshots of application, results
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
