@@ -9,8 +9,9 @@ status when the Wholesaler, packager, or distributor holds the specific drug. Cu
 and companies face problems with regulatory compliance because we can't exactly confirm the source of the drug without stamps confirming the time of packaging and location.
 Also, drugs have a few stages of processing, and before being packaged, drugs can be sent directly to hospitals or pharmacies which makes it much more difficult to track such unmarked 
 drugs, we are going to create timestamps with the date and location during all stages of producing and transporting drugs regardless of whether they are packaged or unpackaged, and it will
-add traceability and transparency to the drug distribution process. Besides, smart contracts will allow us to automate stamping which will make the whole process more resistant to human
-errors.
+add traceability and transparency to the drug distribution process. Besides, smart contracts will allow us to automate stamping, making the whole process more resistant to human
+errors. In conclusion, this application will allow tracking of the entire drug distribution and manufacturing process, and it will be easier for companies to share information about 
+the distribution between different organizations participating in the drug distribution process.
 
 ## Team
 
