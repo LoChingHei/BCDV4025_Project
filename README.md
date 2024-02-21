@@ -24,7 +24,7 @@ Business Analyst
 
 Kirill Spitsyn (101518315)
 
-Business Analyst 
+Architect
 
 Kevon Vincent Jaggassar (101434025)  
 
