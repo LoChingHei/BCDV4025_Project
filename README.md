@@ -62,7 +62,7 @@ Get all drugs function, drug "3" was added:
 
 Change current drug holder functionality:
 
-<img width="916" alt="Screenshot 2024-02-21 at 4 22 23 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/286f2d04-c825-4dd3-816e-add36b6eba03">
+<img width="870" alt="Screenshot 2024-02-21 at 5 05 09 PM" src="https://github.com/LoChingHei/BCDV4025_Project/assets/145512379/5b5a0c02-4ea6-40a1-8da4-03a4d2a0df9c">
 
 
 
