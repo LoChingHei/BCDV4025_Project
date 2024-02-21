@@ -16,7 +16,7 @@ the distribution between different organizations participating in the drug distr
 Fututre Plans: • Increased Traceability and Transparency: Blockchain will continue to play a crucial role in enhancing traceability and transparency throughout in the drug supply chain. By leveraging immutable ledgers and smart contracts, companies can ensure that every step of the drug manufacturing and distribution process is recorded transparently and securely. • Integration with IoT Devices: Integration with the Internet of Things (IoT)-smartwatches, and devices will become more prevalent, enabling real-time tracking of pharmaceutical products from manufacturing facilities to end consumers. IoT sensors can provide data on temperature, humidity, and other environmental factors, ensuring the integrity and quality of drugs throughout their journey. • Enhanced Regulatory Compliance: Blockchain solutions will help pharmaceutical companies meet regulatory compliance requirements more efficiently. By providing a tamper-proof record of transactions and drug movements, companies can streamline regulatory reporting and audits, reducing the risk of non-compliance and associated penalties. • Interoperability and Collaboration: There will be a focus on interoperability and collaboration among different stakeholders in the pharmaceutical supply chain. Blockchain networks built on Hyperledger Fabric will facilitate secure data sharing and collaboration between manufacturers, wholesalers, distributors, pharmacies, and regulatory authorities, improving efficiency and trust.
 
 ## Team
-
+Lo Ching Hei (101486171)
 
 ## Requirements
 
