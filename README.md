@@ -18,6 +18,12 @@ Fututre Plans: • Increased Traceability and Transparency: Blockchain will cont
 ## Team
 Lo Ching Hei (101486171)
 
+Kirill Spitsyn 
+
+Kevon Vincent Jaggassar  
+
+Tafadzwa Mataire
+
 ## Requirements
 
 `"fabric-samples" repository to run the testnet [4Gb of memory]` 
