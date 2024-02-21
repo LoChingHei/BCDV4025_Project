@@ -35,6 +35,10 @@ Tafadzwa Mataire (101428775)
 
 Full Stack Developer
 
+Munachi Ernest-Eze (101464377)
+
+Full Stack Developer
+
 ## Requirements
 
 `"fabric-samples" repository to run the testnet [4Gb of memory]` 
