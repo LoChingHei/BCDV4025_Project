@@ -20,11 +20,9 @@ the distribution between different organizations participating in the drug distr
 
 "fabric-samples" repository to run the testnet
 
-## Architecture Diagram
+## Architecture Diagram (State Diagram)
 
 ![image](https://github.com/LoChingHei/BCDV4025_Project/assets/72778161/c928c6cd-1de4-45cb-ad3d-7942088eef2e)
-
-## State Diagram
 
 
 ## Sequence Diagram
