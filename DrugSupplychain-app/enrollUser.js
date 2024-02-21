@@ -36,7 +36,6 @@ async function main() {
         const enrollmentID = args[1];
         const enrollmentSecret = args[2];
 
-        // optional
         let enrollmentAttributes = [];
         if (args.length > 3) {
             enrollmentAttributes = JSON.parse(args[3]);
